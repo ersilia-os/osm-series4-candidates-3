@@ -1,0 +1,9 @@
+smiles
+FC(F)Oc1ccc(-c2nnc3cncc(OCc4ccccc4C(F)(F)F)n23)cc1
+FC(F)Oc1ccc(-c2nnc3cncc(OCCc4ccccc4)n23)cc1
+CC(Cc1ccccc1)Oc1cncc2nnc(-c3ccc(OC(F)F)cc3)n12
+O=[N+]([O-])c1cccc(CCOc2cncc3nnc(-c4ccc(OC(F)F)cc4)n23)c1
+FC(F)Oc1ccc(-c2nnc3cncc(OCc4cccc(C(F)(F)F)c4)n23)cc1
+FC(F)Oc1ccc(-c2nnc3cncc(OCCc4c[nH]c5ccccc45)n23)cc1
+FC(F)Oc1ccc(-c2nnc3cncc(OCc4cccc(Br)c4)n23)cc1
+COC(COc1cncc2nnc(-c3ccc(OC(F)F)cc3)n12)c1ccccc1
