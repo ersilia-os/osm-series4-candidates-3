@@ -1,0 +1,5 @@
+smiles,inchikey
+O=[N+]([O-])c1cccc(CCOc2cncc3nnc(-c4ccc(OC(F)F)cc4)n23)c1,PJOLUEGNJQWULF-UHFFFAOYSA-N
+FC(F)Oc1ccc(-c2nnc3cncc(OCCc4c[nH]c5ccccc45)n23)cc1,DRCWBTMWIRBBBH-UHFFFAOYSA-N
+FC(F)Oc1ccc(-c2nnc3cncc(OCc4cccc(Br)c4)n23)cc1,WOEBGRIGGCDQRK-UHFFFAOYSA-N
+COC(COc1cncc2nnc(-c3ccc(OC(F)F)cc3)n12)c1ccccc1,YDHUWNKEIONDLX-UHFFFAOYSA-N
